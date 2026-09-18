@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E54E9&height=220&section=header&text=Aryan%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20Student%20%7C%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8E54E9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Turning+ideas+into+code+%F0%9F%92%BB;B.Tech+CSE+%40+2025;Always+shipping+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8E54E9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Turning+ideas+into+code+%F0%9F%92%BB;B.Tech+CSE+%40+2026;Always+shipping+something+new" alt="Typing SVG" />
 
 <br/>
 
@@ -64,23 +64,6 @@ fun_fact: "I debug faster than I sleep 😅"
 <img src="https://github-profile-trophy.vercel.app/?username=tiwari0302&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
 
 </div>
-
-<br/>
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/tiwari0302/repo-name-1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tiwari0302&repo=repo-name-1&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/tiwari0302/repo-name-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tiwari0302&repo=repo-name-2&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-> ⚠️ Replace `repo-name-1` / `repo-name-2` above with your actual pinned repo names so the project cards load correctly.
 
 <br/>
 
